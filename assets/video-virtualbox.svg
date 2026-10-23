@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Vídeo: VirtualBox 2025, instala, configura y crea tu primera máquina virtual paso a paso">
+  <defs>
+    <linearGradient id="vbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f3a"/>
+      <stop offset="0.6" stop-color="#123a6b"/>
+      <stop offset="1" stop-color="#1b6fb5"/>
+    </linearGradient>
+    <linearGradient id="vaccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#ff7a59"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="520" rx="24" fill="url(#vbg)"/>
+  <g opacity="0.07" fill="#ffffff">
+    <circle cx="1110" cy="70" r="160"/>
+    <circle cx="90" cy="500" r="140"/>
+  </g>
+
+  <!-- Marco del reproductor -->
+  <rect x="60" y="56" width="1080" height="408" rx="18" fill="#08162b" opacity="0.55"/>
+
+  <!-- Etiqueta superior -->
+  <rect x="100" y="92" width="210" height="36" rx="18" fill="#ff0033"/>
+  <text x="205" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="1.5">VÍDEO · YOUTUBE</text>
+
+  <!-- Título -->
+  <text x="100" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">VirtualBox 2025</text>
+  <text x="100" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" fill="url(#vaccent)">Instala, configura y crea tu primera</text>
+  <text x="100" y="296" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" fill="url(#vaccent)">máquina virtual paso a paso</text>
+  <text x="100" y="346" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#cfe2f6">Un vídeo de JosemaTech para verlo antes de empezar la guía</text>
+
+  <!-- Botón de reproducir -->
+  <g transform="translate(940 226)">
+    <circle r="92" fill="#ffffff" opacity="0.08"/>
+    <circle r="70" fill="#ff0033"/>
+    <path d="M -22 -36 L 40 0 L -22 36 Z" fill="#ffffff"/>
+  </g>
+  <text x="940" y="358" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">Pulsa para verlo</text>
+
+  <!-- Barra de reproducción -->
+  <rect x="100" y="404" width="1000" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
+  <rect x="100" y="404" width="170" height="6" rx="3" fill="#ff0033"/>
+  <circle cx="270" cy="407" r="9" fill="#ff0033"/>
+  <path d="M 100 428 L 112 436 L 100 444 Z" fill="#ffffff" opacity="0.85"/>
+  <text x="1100" y="442" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#cfe2f6">youtube.com/@JosemaTech</text>
+</svg>
