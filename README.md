@@ -7,6 +7,7 @@
   <img alt="Idioma: español" src="https://img.shields.io/badge/idioma-espa%C3%B1ol-ff7a59?style=for-the-badge">
   <img alt="Nivel: desde cero" src="https://img.shields.io/badge/nivel-desde%20cero-28a06a?style=for-the-badge">
   <img alt="Capturas reales" src="https://img.shields.io/badge/capturas-120%2B-123a6b?style=for-the-badge">
+  <a href="LICENSE"><img alt="Licencia CC BY-NC-SA 4.0" src="https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-ef9421?style=for-the-badge"></a>
 </p>
 
 # VirtualBox desde cero
@@ -114,3 +115,21 @@ En este vídeo de [JosemaTech](https://www.youtube.com/@JosemaTech) se ve de pri
 <p align="center">
   <b>¿Listo?</b> Empieza por el principio: <a href="docs/01-conceptos-basicos.md"><b>Capítulo 1 · Conceptos básicos</b></a> ➡️
 </p>
+
+---
+
+## Licencia y autoría
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"><img alt="Licencia Creative Commons BY-NC-SA 4.0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a>
+
+© 2026 **Daniel GM** ([@darelou](https://github.com/darelou)). Esta guía, con sus textos, capturas y diseños, se publica con la licencia **[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)**. El texto completo está en el archivo [LICENSE](LICENSE).
+
+Puedes compartirla y adaptarla siempre que cumplas estas tres condiciones:
+
+| Condición | Qué significa |
+|---|---|
+| **Atribución** | Tienes que citar al autor, enlazar a este repositorio y decir si has hecho cambios. |
+| **No comercial** | No puedes usarla con fines comerciales (venderla, incluirla en un curso de pago...). |
+| **Compartir igual** | Si la modificas o la amplías, tienes que publicar tu versión con esta misma licencia. |
+
+VirtualBox y Oracle son marcas de Oracle Corporation, y la interfaz de VirtualBox que aparece en las capturas le pertenece. El vídeo de la portada es de su autor, [JosemaTech](https://www.youtube.com/@JosemaTech). Esta guía no está relacionada con Oracle ni cuenta con su respaldo.
